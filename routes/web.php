@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\ProfileController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +18,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/dashboard',[UserController::class,'index'])->name('dashboard');
+Route::get('/login',[ProfileController::class,'index'])->name('login');
+Route::post('/login',[ProfileController::class,'login'])->name('login');
