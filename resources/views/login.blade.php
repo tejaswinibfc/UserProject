@@ -527,23 +527,33 @@
                                     <h4 class="mb-1">Sign In</h4>
                                     <p>Sign in to your account to continue.</p>
                                 </div>
-                                <form action="{{route('login')}}" method="post">
+                                <form action="{{route('login')}}" method="post" id="form1">
                                     @csrf
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="mb-3">
                                                 <label class="mb-2 fw-500">Email<span class="text-danger ms-1">*</span></label>
-                                                <input class="form-control ms-0" type="email" placeholder="Enter your Email">
+                                                <input class="form-control ms-0" type="email" name="email" value="" placeholder="Enter your Email">
+                                                @if ($errors->has('email'))
+                                                <span class="text-danger">{{ $errors->first('email') }}</span>
+                                                @endif
                                             </div>
+
                                         </div>
                                         <div class="col-sm-12">
                                             <div class="mb-3">
                                                 <label class="mb-2 fw-500">Password<span class="text-danger ms-1">*</span></label>
                                                 <div>
-                                                    <input type="password" class="form-control" id="input-password" placeholder="Password">
+                                                    <input type="password" class="form-control" name="password" value="" id="input-password" placeholder="Password">
                                                 </div>
+                                                @if ($errors->has('password'))
+                                                <span class="text-danger">{{ $errors->first('password') }}</span>
+                                                @endif
                                             </div>
+
                                         </div>
+
+
                                         <div class="col-xl-12">
                                             <div class="d-flex mb-3">
                                                 <div class="form-check d-flex align-items-center">
@@ -598,16 +608,51 @@
 
     <!-- Bootstrap JS -->
     <script src="build/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-
-
-
+    <script src="code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- Custom-Switcher JS -->
     <link rel="modulepreload" href="build/assets/custom-switcher-aff38aa1.js" />
     <link rel="modulepreload" href="build/assets/defaultmenu-7feba3a7.js" />
     <script type="module" src="build/assets/custom-switcher-aff38aa1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
 </body>
+<style>
+    /* .error{
+    color: red;
+} */
+</style>
+<script>
+    $(document).ready(function($) {
+        $("#form1").validate({
+            rules: {
+                email: "required",
+                password: "required",
+            },
+            messages: {
+                email: "Please enter email",
+                password: "Please enter password",
+            },
+            errorPlacement: function(error, element) {
+                if (element.is(":radio")) {
+                    error.appendTo(element.parents('.form-group'));
+                } else { // This is the default behavior 
+                    error.insertAfter(element);
+                }
+            },
+            submitHandler: function(form) {
+                form.submit();
+            }
+
+        });
+    });
+
+    $('input').keypress(function(e) {
+        if (this.value.length === 0 && e.which === 32) e.preventDefault();
+    });
+</script>
+
+
 
 
 <!-- Mirrored from laravelui.spruko.com/vexel/login by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Mar 2024 11:24:15 GMT -->
