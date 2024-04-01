@@ -19,6 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard',[UserController::class,'index'])->name('dashboard');
+Route::middleware(['web'])->group(function () {
+    Route::get('/dashboard',[UserController::class,'index'])->name('dashboard');
+});
 Route::get('/login',[ProfileController::class,'index'])->name('login');
 Route::post('/login',[ProfileController::class,'login'])->name('login');
