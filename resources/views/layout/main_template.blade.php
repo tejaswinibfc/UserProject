@@ -47,9 +47,6 @@
     <link rel="preload" as="style" href="build/assets/app-e29e56ca.css" />
     <link rel="stylesheet" href="build/assets/app-e29e56ca.css" />
 
-
-
-
 </head>
 
 <body class="app sidebar-mini">
@@ -567,13 +564,13 @@
                                     <!-- Start::header-element -->
                                     <!-- Start::country select collapse -->
                                     <!-- <div class="header-element country-dropdown dropdown-center"> -->
-                                        <!-- Start::header-link|dropdown-toggle -->
-                                        <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <!-- Start::header-link|dropdown-toggle -->
+                                    <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                             <img src="build/assets/images/flags-img/us_flag.jpg" class="rounded-circle header-link-icon" alt="img">
                                         </a> -->
-                                        <!-- End::header-link|dropdown-toggle -->
-                                        <!-- Start::main-header-dropdown -->
-                                        <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none">
+                                    <!-- End::header-link|dropdown-toggle -->
+                                    <!-- Start::main-header-dropdown -->
+                                    <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none">
                                             <ul class="mb-0">
                                                 <li class="dropdown-item mb-1">
                                                     <div class="d-flex align-items-center">
@@ -637,17 +634,17 @@
                                                 </li>
                                             </ul>
                                         </div> -->
-                                        <!-- End::main-header-dropdown -->
+                                    <!-- End::main-header-dropdown -->
                                     <!-- </div> -->
                                     <!-- End::country select collapse -->
 
                                     <!-- Start::header-element -->
                                     <!-- <div class="header-element header-theme-mode"> -->
-                                        <!-- Start::header-link|layout-setting -->
-                                        <!-- <a href="javascript:void(0);" class="header-link layout-setting">
+                                    <!-- Start::header-link|layout-setting -->
+                                    <!-- <a href="javascript:void(0);" class="header-link layout-setting">
                                             <span class="light-layout"> -->
-                                                <!-- Start::header-link-icon -->
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="header-link-icon" viewBox="0 0 24 24">
+                                    <!-- Start::header-link-icon -->
+                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="header-link-icon" viewBox="0 0 24 24">
                                                     <g>
                                                         <rect fill="none" height="24" width="24" />
                                                     </g>
@@ -658,18 +655,18 @@
                                                         </g>
                                                     </g>
                                                 </svg> -->
-                                                <!-- End::header-link-icon -->
-                                            <!-- </span>
+                                    <!-- End::header-link-icon -->
+                                    <!-- </span>
                                             <span class="dark-layout"> -->
-                                                <!-- Start::header-link-icon -->
-                                                <!-- <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="header-link-icon" viewBox="0 0 24 24">
+                                    <!-- Start::header-link-icon -->
+                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="header-link-icon" viewBox="0 0 24 24">
                                                     <rect fill="none" height="24" width="24" />
                                                     <path d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z" />
                                                 </svg> -->
-                                                <!-- End::header-link-icon -->
-                                            <!-- </span>
+                                    <!-- End::header-link-icon -->
+                                    <!-- </span>
                                         </a> -->
-                                        <!-- End::header-link|layout-setting -->
+                                    <!-- End::header-link|layout-setting -->
                                     <!-- </div> -->
                                     <!-- End::header-element -->
 
@@ -689,17 +686,17 @@
 
                                     <!-- Start::header-element -->
                                     <!-- <div class="header-element dropdown-center cart-dropdown"> -->
-                                        <!-- Start::header-link|dropdown-toggle -->
-                                        <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown">
+                                    <!-- Start::header-link|dropdown-toggle -->
+                                    <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="header-link-icon" viewBox="0 0 24 24">
                                                 <path d="M0 0h24v24H0V0z" fill="none" />
                                                 <path d="M15.55 13c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.37-.66-.11-1.48-.87-1.48H5.21l-.94-2H1v2h2l3.6 7.59-1.35 2.44C4.52 15.37 5.48 17 7 17h12v-2H7l1.1-2h7.45zM6.16 6h12.15l-2.76 5H8.53L6.16 6zM7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z" />
                                             </svg>
                                             <span class="badge bg-primary rounded-pill header-icon-badge" id="cart-icon-badge">5</span>
                                         </a> -->
-                                        <!-- End::header-link|dropdown-toggle -->
-                                        <!-- Start::main-header-dropdown -->
-                                        <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none">
+                                    <!-- End::header-link|dropdown-toggle -->
+                                    <!-- Start::main-header-dropdown -->
+                                    <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none">
                                             <div class="p-3 border-bottom">
                                                 <div class="d-flex align-items-center justify-content-between">
                                                     <p class="mb-0 fs-15 fw-semibold">Cart Items</p>
@@ -836,24 +833,24 @@
                                                 </div>
                                             </div>
                                         </div> -->
-                                        <!-- End::main-header-dropdown -->
+                                    <!-- End::main-header-dropdown -->
                                     <!-- </div> -->
                                     <!-- End::header-element -->
 
                                     <!-- Start::header-element -->
                                     <!-- <div class="header-element dropdown-center notifications-dropdown"> -->
-                                        <!-- Start::header-link|dropdown-toggle -->
-                                        <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <!-- Start::header-link|dropdown-toggle -->
+                                    <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="header-link-icon" viewBox="0 0 24 24">
                                                 <path d="M0 0h24v24H0V0z" fill="none" />
                                                 <path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z" />
                                             </svg>
                                             <span class="badge bg-secondary rounded-pill header-icon-badge pulse pulse-secondary" id="notification-icon-badge">4</span>
                                         </a> -->
-                                        <!-- End::header-link|dropdown-toggle -->
-                                        <!-- Start::main-header-dropdown -->
-                                        <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none"> -->
-                                            <!-- <div class="p-3">
+                                    <!-- End::header-link|dropdown-toggle -->
+                                    <!-- Start::main-header-dropdown -->
+                                    <!-- <div class="main-header-dropdown dropdown-menu dropdown-menu-end" data-popper-placement="none"> -->
+                                    <!-- <div class="p-3">
                                                 <div class="d-flex align-items-center justify-content-between">
                                                     <p class="mb-0 fs-15 fw-semibold">Notifications</p>
                                                     <a href="javascript:void(0);" class="badge bg-secondary-transparent" id="notifiation-data">4 Items</a>
@@ -952,8 +949,8 @@
                                                     </div>
                                                 </li>
                                             </ul> -->
-                                            <!-- <div class="dropdown-divider"></div> -->
-                                            <!-- <div class="p-3 empty-header-item1">
+                                    <!-- <div class="dropdown-divider"></div> -->
+                                    <!-- <div class="p-3 empty-header-item1">
                                                 <div class="d-grid">
                                                     <a href="notify-list.html" class="btn btn-primary">View All</a>
                                                 </div>
@@ -966,23 +963,23 @@
                                                     <h6 class="fw-semibold mt-3">No New Notifications</h6>
                                                 </div>
                                             </div> -->
-                                        <!-- </div> -->
-                                        <!-- End::main-header-dropdown -->
+                                    <!-- </div> -->
+                                    <!-- End::main-header-dropdown -->
                                     <!-- </div> -->
                                     <!-- End::header-element -->
 
                                     <!-- Start::header-element -->
                                     <!-- <div class="header-element dropdown-center header-shortcuts-dropdown"> -->
-                                        <!-- Start::header-link|dropdown-toggle -->
-                                        <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" id="notificationDropdown" aria-expanded="false">
+                                    <!-- Start::header-link|dropdown-toggle -->
+                                    <!-- <a href="javascript:void(0);" class="header-link dropdown-toggle" data-bs-toggle="dropdown" id="notificationDropdown" aria-expanded="false">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="header-link-icon" viewBox="0 0 24 24">
                                                 <path d="M0 0h24v24H0V0z" fill="none" />
                                                 <path d="M4 8h4V4H4v4zm6 12h4v-4h-4v4zm-6 0h4v-4H4v4zm0-6h4v-4H4v4zm6 0h4v-4h-4v4zm6-10v4h4V4h-4zm-6 4h4V4h-4v4zm6 6h4v-4h-4v4zm0 6h4v-4h-4v4z" />
                                             </svg>
                                         </a> -->
-                                        <!-- End::header-link|dropdown-toggle -->
-                                        <!-- Start::main-header-dropdown -->
-                                        <!-- <div class="main-header-dropdown header-shortcuts-dropdown dropdown-menu pb-0 dropdown-menu-end" aria-labelledby="notificationDropdown">
+                                    <!-- End::header-link|dropdown-toggle -->
+                                    <!-- Start::main-header-dropdown -->
+                                    <!-- <div class="main-header-dropdown header-shortcuts-dropdown dropdown-menu pb-0 dropdown-menu-end" aria-labelledby="notificationDropdown">
                                             <div class="p-3">
                                                 <div class="d-flex align-items-center justify-content-between">
                                                     <p class="mb-0 fs-17 fw-semibold">Related Apps</p>
@@ -1089,7 +1086,7 @@
                                                 </div>
                                             </div>
                                         </div> -->
-                                        <!-- End::main-header-dropdown -->
+                                    <!-- End::main-header-dropdown -->
                                     <!-- </div> -->
                                     <!-- End::header-element -->
 
@@ -1118,33 +1115,20 @@
                                                 <img src="build/assets/images/users/21.jpg" alt="img" width="30" height="30" class="rounded-circle">
                                             </span>
                                             <div class="d-xl-block d-none lh-1">
-                                                <h6 class="fs-13 font-weight-semibold mb-0">Json Taylor</h6>
-                                                <span class="op-8 fs-10">Web Designer</span>
+                                                <h6 class="fs-13 font-weight-semibold mb-0">{{Auth::user()->name}}</h6>
+                                                <!-- <span class="op-8 fs-10">Web Designer</span> -->
                                             </div>
                                         </a>
                                         <!-- End::header-link|dropdown-toggle -->
                                         <ul class="dropdown-menu pt-0 overflow-hidden dropdown-menu-end mt-1" aria-labelledby="mainHeaderProfile">
-                                            <li><a class="dropdown-item" href="profile.html"><i class="ti ti-user-circle fs-18 me-2 op-7"></i>Profile</a></li>
-                                            <li><a class="dropdown-item" href="index.html"><i class="ti ti-inbox fs-18 me-2 op-7"></i>Dashboard</a></li>
-                                            <li><a class="dropdown-item border-block-end" href="blog.html"><i class="ti ti-clipboard-check fs-18 me-2 op-7"></i>Posts &
-                                                    Activities</a></li>
-                                            <li><a class="dropdown-item" href="settings.html"><i class="ti ti-adjustments-horizontal fs-18 me-2 op-7"></i>Settings
-                                                    & Privacy</a></li>
-                                            <li><a class="dropdown-item border-block-end" href="faq.html"><i class="ti ti-help fs-18 me-2 op-7"></i>Help Center</a></li>
+                                            <li><a class="dropdown-item" href="{{route('profile')}}"><i class="ti ti-user-circle fs-18 me-2 op-7"></i>Profile</a></li>
+                                            <li><a class="dropdown-item" href="{{route('dashboard')}}"><i class="ti ti-inbox fs-18 me-2 op-7"></i>Dashboard</a></li>
+
+                                            <li><a class="dropdown-item" href="{{route('logout')}}"><i class="ti ti-power fs-18 me-2 op-7"></i>Sign Out</a></li>
                                             <li>
                                                 <hr class="dropdown-divider my-0">
                                             </li>
-                                            <li><a class="dropdown-item" href="register.html"><i class="ti ti-user-plus fs-18 me-2 op-7"></i>Add Another
-                                                    Account</a></li>
-                                            <li><a class="dropdown-item" href="login.html"><i class="ti ti-power fs-18 me-2 op-7"></i>Sign Out</a></li>
-                                            <li>
-                                                <hr class="dropdown-divider my-0">
-                                            </li>
-                                            <li class="d-flex justify-content-center p-2">
-                                                <span><a class="fs-12 px-2 border-end" href="javascript:void(0);">Privacy Policy</a></span>
-                                                <span><a class="fs-12 px-2 border-end" href="javascript:void(0);">Terms</a></span>
-                                                <span><a class="fs-12 px-2" href="javascript:void(0);">Cookies</a></span>
-                                            </li>
+
                                         </ul>
                                     </div>
                                     <!-- End::header-element|main-profile-user -->
@@ -1823,971 +1807,16 @@
 
             </aside>
             <!-- End Main-Sidebar-->
+            <!-- @section('sidebar') -->
 
             <!--app-content open-->
             <div class="main-content app-content mt-0">
-
-
-                <!-- PAGE-HEADER -->
-                <div class="page-header d-flex align-items-center justify-content-between border-bottom mb-4">
-                    <h1 class="page-title">Dashboard</h1>
-                    <div>
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="javascript:void(0);">Admin</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
-                        </ol>
-                    </div>
-                </div>
-                <!-- PAGE-HEADER END -->
-
-                <!-- CONTAINER -->
-                <div class="main-container container-fluid">
-
-                    <!-- Start::Row-1 -->
-                    <div class="row">
-                        <div class="col-xxl-9">
-                            <div class="row">
-                                <div class="col-xxl-5 col-xl-12">
-                                    <div class="row">
-                                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xxl-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-start">
-                                                        <div class="flex-grow-1">
-                                                            <p class="mb-0">Total Orders</p>
-                                                            <span class="fs-5">45</span>
-                                                            <span class="fs-12 text-success ms-1"><i class="ti ti-trending-up mx-1"></i>0.5%</span>
-                                                        </div>
-                                                        <div class="min-w-fit-content ms-3">
-                                                            <span class="avatar avatar-md br-5 bg-primary-transparent text-primary">
-                                                                <i class="fe fe-user fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xxl-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-start">
-                                                        <div class="flex-grow-1">
-                                                            <p class="mb-0">Total Package</p>
-                                                            <span class="fs-5">10</span>
-                                                            <span class="fs-12 text-secondary ms-1"><i class="ti ti-trending-down mx-1"></i>8.0%</span>
-                                                        </div>
-                                                        <div class="min-w-fit-content ms-3">
-                                                            <span class="avatar avatar-md br-5 bg-secondary-transparent text-secondary">
-                                                                <i class="fe fe-package fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xxl-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-start">
-                                                        <div class="flex-grow-1">
-                                                            <p class="mb-0">Total Payments</p>
-                                                            <span class="fs-5">60</span>
-                                                            <span class="fs-12 text-success ms-1"><i class="ti ti-trending-up mx-1"></i>3.5%</span>
-                                                        </div>
-                                                        <div class="min-w-fit-content ms-3">
-                                                            <span class="avatar avatar-md br-5 bg-warning-transparent text-warning">
-                                                                <i class="fe fe-credit-card fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-xxl-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-start flex-wrap gap-1">
-                                                        <div class="flex-grow-1">
-                                                            <p class="mb-0">Subscriptions </p>
-                                                            <span class="fs-5">10</span>
-                                                            <span class="fs-12 text-success ms-1"><i class="ti ti-trending-up mx-1"></i>0.5%</span>
-                                                        </div>
-                                                        <div class="min-w-fit-content">
-                                                            <span class="avatar avatar-md br-5 bg-info-transparent">
-                                                                <i class="fe fe-user-plus fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                                <div class="card">
-                                                    <div class="card-body">
-                                                        <div class="d-flex align-items-center mb-3 flex-wrap gap-1">
-                                                            <span
-                                                                class="avatar avatar-md stat-avatar rounded-circle text-bg-warning fs-18 min-w-fit-content me-2">
-                                                                <i class="bi bi-bag-check"></i>
-                                                            </span>
-                                                            <p class="mb-0 flex-grow-1">Total Sales by Unit
-                                                            </p>
-                                                        </div>
-                                                        <span class="fs-5">$12,897</span>
-                                                        <span class="fs-12 text-warning ms-1"><i
-                                                                class="ti ti-trending-up mx-1"></i>3.5%</span>
-                                                        <div class="fw-normal d-flex align-items-center mb-2 mt-4">
-                                                            <p class="mb-0 flex-grow-1">Active Sales</p>
-                                                            <span>3,274</span>
-                                                        </div>
-                                                        <div class="progress custom-progress-1" style="height: 5px;">
-                                                            <div class="progress-bar bg-warning" role="progressbar"
-                                                                style="width: 50%;" aria-valuenow="25" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-footer p-0 text-center">
-                                                        <div class="d-grid">
-                                                            <a href="javascript:void(0);"
-                                                                class="px-3 py-2 text-warning">View Details <i
-                                                                    class="ti ti-external-link"></i></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div> -->
-                                        <!-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                                <div class="card overflow-hidden">
-                                                    <div class="card-body p-0">
-                                                        <div class="px-3 pt-3">
-                                                            <div class="d-flex align-items-center mb-3">
-                                                                <span
-                                                                    class="avatar avatar-md stat-avatar rounded-circle text-bg-primary fs-18 min-w-fit-content me-2">
-                                                                    <i class="bi bi-bar-chart"></i>
-                                                                </span>
-                                                                <p class="mb-0 flex-grow-1">Total Revenue</p>
-                                                            </div>
-                                                            <span class="fs-5">$8,889</span>
-                                                            <span class="fs-12 text-success ms-1"><i
-                                                                    class="ti ti-trending-up mx-1"></i>5.5%</span>
-                                                        </div>
-                                                        <div id="totalRevenue"></div>
-                                                    </div>
-                                                </div>
-                                            </div> -->
-                                        <!-- <div class="col-xl-12">
-                                                <div class="card">
-                                                    <div
-                                                        class="card-header d-flex align-items-center justify-content-between border-bottom">
-                                                        <h6 class="card-title">Recent Activities </h6>
-                                                    </div>
-                                                    <div class="card-body">
-                                                        <ul class="mb-0 recent-activity">
-                                                            <li class="list-item activity-avatar-before info">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-info-transparent min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-info min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-briefcase fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">Nile Robetz mentioned a jogh
-                                                                            in post</p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12 ">Uploaded a new
-                                                                            post</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 11:17 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before danger">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-danger-transparent min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-danger min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-brightness-high fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">Always look on the bright side
-                                                                            of life</p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12">Look at the
-                                                                            Life</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 08:19 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before success">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-success-transparent min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-success min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-peace fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">Peace on earth a wonderful
-                                                                            width</p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12">Wonderful earth
-                                                                            gives a peace</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 10:43 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before warning">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-warning-transparent box-shadow-warning min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-warning min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-clock-history fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">A brief history of creation
-                                                                        </p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12">Create your own
-                                                                            history</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 07:27 pm</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before danger">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-danger-transparent min-w-fit-content">
-                                                                    
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-danger min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-brightness-high fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">Always look on the bright side
-                                                                            of life</p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12">Look at the
-                                                                            Life</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 08:19 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before info">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-info-transparent min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-info min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-briefcase fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">Nile Robetz mentioned a jogh
-                                                                            in post</p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12 ">Uploaded a new
-                                                                            post</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 11:17 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                            <li class="list-item activity-avatar-before primary">
-                                                                <div class="d-flex">
-                                                                    <div
-                                                                        class="avatar p-1 avatar-md rounded-circle bg-primary-transparent min-w-fit-content">
-                                                                        <span
-                                                                            class="avatar avatar-sm activity-avatar bg-primary min-w-fit-content rounded-circle cover-image"><i
-                                                                                class="bi bi-broadcast-pin fs-14"></i></span>
-                                                                    </div>
-                                                                    <div class="ms-3 flex-fill">
-                                                                        <p class="mb-0 fs-14">The science of superstitions.
-                                                                        </p>
-                                                                        <span class="clearfix"></span>
-                                                                        <small class="text-muted fs-12">Volume is a
-                                                                            superstitions</small>
-                                                                        <span class="clearfix"></span>
-                                                                    </div>
-                                                                    <div class="ms-auto">
-                                                                        <span class="text-muted fs-12 ms-2 text-truncate"><i
-                                                                                class="bi bi-clock"></i> 10:09 am</span>
-                                                                    </div>
-                                                                </div>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div> -->
-                                    </div>
-                                </div>
-                                <!-- <div class="col-xxl-7 col-xl-12">
-                                        <div class="card">
-                                            <div class="card-header justify-content-between">
-                                                <h6 class="card-title flex-grow-1 text-truncate me-3">Monthly Orders Analytics</h6>
-                                                <div class="dropdown">
-                                                    <a href="javascript:void(0);" class="btn btn-primary-light btn-sm" data-bs-toggle="dropdown" aria-expanded="false">
-                                                        View All<i class="ri-arrow-down-s-line align-middle ms-1 d-inline-block"></i>
-                                                    </a>
-                                                    <ul class="dropdown-menu" role="menu">
-                                                        <li><a class="dropdown-item" href="javascript:void(0);">Today</a></li>
-                                                        <li><a class="dropdown-item" href="javascript:void(0);">This Week</a>
-                                                        </li>
-                                                        <li><a class="dropdown-item" href="javascript:void(0);">Last Week</a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="card-body">
-                                                <div id="column-basic"></div>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-xl-12">
-                                                <div class="card">
-                                                    <div class="card-header border-bottom justify-content-between">
-                                                        <h6 class="card-title flex-grow-1 text-truncate me-3">Best Selling
-                                                            Products</h6>
-                                                            <div class="dropdown">
-                                                                <a href="javascript:void(0);" class="btn btn-primary-light btn-sm" data-bs-toggle="dropdown" aria-expanded="false">
-                                                                    View All<i class="ri-arrow-down-s-line align-middle ms-1 d-inline-block"></i>
-                                                                </a>
-                                                                <ul class="dropdown-menu" role="menu">
-                                                                    <li><a class="dropdown-item" href="javascript:void(0);">Today</a></li>
-                                                                    <li><a class="dropdown-item" href="javascript:void(0);">This Week</a>
-                                                                    </li>
-                                                                    <li><a class="dropdown-item" href="javascript:void(0);">Last Week</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                    </div>
-                                                    <div class="card-body p-0">
-                                                        <div class="table-responsive">
-                                                            <table class="table table-hover card-table mb-0">
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th class="ps-3">Products</th>
-                                                                        <th>Categories</th>
-                                                                        <th>Sold</th>
-                                                                        <th>Price</th>
-                                                                        <th class="pe-3">Earnings</th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/21.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">Mony Headphones</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Gadgets
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">457</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/22.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">Alarm Clock</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Fashion
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">876</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/23.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">Kikon Camera</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Smart Home
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">432</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/24.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">Alarm Clock</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Bags
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">234</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/20.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">DSLR Camera</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Electronics
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">678</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td class="ps-3">
-                                                                            <div
-                                                                                class="d-flex align-items-center position-relative">
-                                                                                <a href="javascript:void(0);"
-                                                                                    class="stretched-link"
-                                                                                    title="recruiter"></a>
-                                                                                <div class="img-fluid lh-1">
-                                                                                    <span
-                                                                                        class="avatar avatar-md avatar-radius cover-image me-2"
-                                                                                        data-bs-image-src="build/assets/images/shop/22.jpg"></span>
-                                                                                </div>
-                                                                                <div class="flex-grow-1">
-                                                                                    <p class="mb-0">Photo Frame</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td>
-                                                                            Fashion
-                                                                        </td>
-                                                                        <td>
-                                                                            <span
-                                                                                class="badge rounded-pill bg-primary-transparent">876</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$97</span>
-                                                                        </td>
-                                                                        <td>
-                                                                            <span>$74,890</span>
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                            </div>
-                        </div>
-                        <!-- <div class="col-xxl-3">
-                            <div class="row">
-                                <div class="col-xxl-12 col-xl-12">
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="card bg-primary tx-fixed-white card-bg-img">
-                                                <div class="card-body position-relative d-flex justify-content-between">
-                                                    <div>
-                                                        <div class="flex-grow-1">
-                                                            <p class="mb-1 fs-18 fw-semibold">Top Sellers of this Week</p>
-                                                        </div>
-                                                        <p class="mb-1 fs-13 op-8">You have got 5 new offers, Track here<br> the Sales data and best deals here.</p>
-                                                        <span class="fs-16">3,531</span>
-                                                        <span class="fs-12 op-7 ms-1"><i class="ti ti-trending-up mx-1"></i>0.5%</span>
-                                                    </div>
-                                                    <div class="min-w-fit-content">
-                                                        <span class="avatar avatar-xxl bg-transparent">
-                                                            <img src="build/assets/images/png/6.png" class="op-7" alt="img">
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
-                                                        <div id="ethCoin"></div>
-                                                        <div class="min-w-fit-content mb-3">
-                                                            <span class="avatar avatar-md br-5 bg-primary-transparent rounded-circle text-primary">
-                                                                <i class="bi bi-briefcase fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="flex-grow-1">
-                                                        <p class="mb-0">Total Projects</p>
-                                                        <div class="d-flex justify-content-between align-items-center">
-                                                            <span class="fs-5">60</span>
-                                                            <span class="fs-12 text-primary ms-1"><i class="ti ti-trending-down mx-1"></i>8.0%</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                            <div class="card">
-                                                <div class="card-body">
-                                                    <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
-                                                        <div id="ethCoin1"></div>
-                                                        <div class="min-w-fit-content mb-3">
-                                                            <span class="avatar avatar-md br-5 bg-secondary-transparent rounded-circle text-secondary">
-                                                                <i class="fe fe-airplay fs-18"></i>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="flex-grow-1">
-                                                        <p class="mb-0">Completed Projects</p>
-                                                        <div class="d-flex justify-content-between align-items-center">
-                                                            <span class="fs-5">40</span>
-                                                            <span class="fs-12 text-secondary ms-1"><i class="ti ti-trending-down mx-1"></i>4.0%</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12">
-                                            <div class="card">
-                                                <div class="card-header border-bottom justify-content-between flex-wrap gap-2">
-                                                    <div>
-                                                        <h6 class="card-title flex-grow-1 text-truncate me-3 mb-1">Top
-                                                            Product Categories</h6>
-                                                    </div>
-                                                    <div class="dropdown">
-                                                        <a href="javascript:void(0);" class="btn btn-primary-light btn-sm" data-bs-toggle="dropdown" aria-expanded="false">
-                                                            View All<i class="ri-arrow-down-s-line align-middle ms-1 d-inline-block"></i>
-                                                        </a>
-                                                        <ul class="dropdown-menu" role="menu">
-                                                            <li><a class="dropdown-item" href="javascript:void(0);">Today</a></li>
-                                                            <li><a class="dropdown-item" href="javascript:void(0);">This Week</a>
-                                                            </li>
-                                                            <li><a class="dropdown-item" href="javascript:void(0);">Last Week</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-center avatar-before primary mb-3 flex-wrap gap-2">
-                                                        <span class="avatar avatar-md stat-avatar rounded-circle fs-18 bg-primary-transparent min-w-fit-content">
-                                                            <i class="bi bi-diagram-3"></i>
-                                                        </span>
-                                                        <div class="ms-3 flex-fill">
-                                                            <p class="mb-0 fs-14">Women's Clothing</p>
-                                                            <span class="clearfix"></span>
-                                                            <small class="text-muted fs-12">Differnt types of
-                                                                clothing</small>
-                                                        </div>
-                                                        <div>
-                                                            <span class="badge bg-light text-dark p-2"><i class="bi bi-circle-fill fs-8 me-1 text-primary"></i>40
-                                                                available</span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="d-flex align-items-center avatar-before warning mb-3 flex-wrap gap-2">
-                                                        <span class="avatar avatar-md stat-avatar rounded-circle fs-18 bg-warning-transparent min-w-fit-content">
-                                                            <i class="bi bi-cast"></i>
-                                                        </span>
-                                                        <div class="ms-3 flex-fill">
-                                                            <p class="mb-0 fs-14">Phones and Tablets</p>
-                                                            <span class="clearfix"></span>
-                                                            <small class="text-muted fs-12">All models of phones</small>
-                                                        </div>
-                                                        <div>
-                                                            <span class="badge bg-light text-dark p-2"><i class="bi bi-circle-fill fs-8 me-1 text-warning"></i>60
-                                                                available</span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="d-flex align-items-center avatar-before indigo mb-3 flex-wrap gap-2">
-                                                        <span class="avatar avatar-md stat-avatar rounded-circle fs-18 bd-indigo-100 text-indigo min-w-fit-content">
-                                                            <i class="bi bi-bag-check"></i>
-                                                        </span>
-                                                        <div class="ms-3 flex-fill">
-                                                            <p class="mb-0 fs-14">Electronics</p>
-                                                            <span class="clearfix"></span>
-                                                            <small class="text-muted fs-12">Related to all
-                                                                Electronics</small>
-                                                        </div>
-                                                        <div>
-                                                            <span class="badge bg-light text-dark p-2"><i class="bi bi-circle-fill fs-8 me-1 text-success"></i>70
-                                                                available</span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="d-flex align-items-center avatar-before info mb-3 flex-wrap gap-2">
-                                                        <span class="avatar avatar-md stat-avatar rounded-circle fs-18 bg-info-transparent min-w-fit-content">
-                                                            <i class="bi bi-house-door"></i>
-                                                        </span>
-                                                        <div class="ms-3 flex-fill">
-                                                            <p class="mb-0 fs-14">Home Appliances </p>
-                                                            <span class="clearfix"></span>
-                                                            <small class="text-muted fs-12">Furnitures,gadgets
-                                                                etc..</small>
-                                                        </div>
-                                                        <div>
-                                                            <span class="badge bg-light text-dark p-2"><i class="bi bi-circle-fill fs-8 me-1 text-info"></i>80
-                                                                available</span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="d-flex align-items-center avatar-before danger mb-0 flex-wrap gap-2">
-                                                        <span class="avatar avatar-md stat-avatar rounded-circle fs-18 bg-danger-transparent min-w-fit-content">
-                                                            <i class="bi bi-house-door"></i>
-                                                        </span>
-                                                        <div class="ms-3 flex-fill">
-                                                            <p class="mb-0 fs-14">Home Appliances </p>
-                                                            <span class="clearfix"></span>
-                                                            <small class="text-muted fs-12">Furnitures,gadgets
-                                                                etc..</small>
-                                                        </div>
-                                                        <div>
-                                                            <span class="badge bg-light text-dark p-2"><i class="bi bi-circle-fill fs-8 me-1 text-info"></i>80
-                                                                available</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card">
-                                                <div class="card-header border-bottom justify-content-between">
-                                                    <h6 class="card-title flex-grow-1 text-truncate me-3">Order Status
-                                                    </h6>
-                                                </div>
-                                                <div class="card-body d-flex justify-content-center">
-                                                    <div id="donut-update"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- <div class="col-xl-12">
-                            <div class="card">
-                                <div class="card-header">
-                                    <h3 class="card-title mb-0">Product Sales</h3>
-                                </div>
-                                <div class="card-body pt-4">
-                                    <div class="grid-margin">
-                                        <div class="table-responsive">
-                                            <table class="table table-bordered text-nowrap mb-0">
-                                                <thead class="border-top">
-                                                    <tr>
-                                                        <th class="wp-5 border-bottom-0 my-auto text-center">
-                                                            <input class="form-check-input check-all" type="checkbox" value="" id="checkebox-sm">
-                                                        </th>
-                                                        <th class="border-bottom-0">Order no</th>
-                                                        <th class="border-bottom-0">Product</th>
-                                                        <th class="border-bottom-0">Ratings</th>
-                                                        <th class="border-bottom-0">Customer</th>
-                                                        <th class="border-bottom-0 text-center">Quantity</th>
-                                                        <th class="border-bottom-0">Status</th>
-                                                        <th class="border-bottom-0">Price</th>
-                                                        <th class="border-bottom-0">Ordered date</th>
-                                                        <th class="border-bottom-0">Actions</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr class="border-bottom user-list">
-                                                        <td class="user-checkbox text-center">
-                                                            <input class="form-check-input" type="checkbox" value="" checked="">
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1537890</a>
-                                                        </td>
-                                                        <td>
-                                                            <div class="d-flex align-items-center">
-                                                                <span class="avatar avatar-sm avatar-radius me-2">
-                                                                    <img src="build/assets/images/shop/1.png" class="avatar-radius" alt="product">
-                                                                </span>
-                                                                A semi minimal chair
-                                                            </div>
-                                                        </td>
-                                                        <td class="fw-semibold fs-15">
-                                                            5.0 <span class="text-muted fw-normal fs-12">(90 Mem)</span> <i class="fa fa-star text-warning fs-12"></i>
-                                                        </td>
-                                                        <td class="fs-14">
-                                                            <a class="text-dark" href="javascript:void(0);">Simon Cowall</a>
-                                                        </td>
-                                                        <td class="text-center">1</td>
-                                                        <td><span class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold">$4320.29</td>
-                                                        <td>
-                                                            <span class="me-2">25 Mar 2022</span>
-                                                        </td>
-                                                        <td>
-                                                            <div class="hstack gap-2 fs-1">
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-edit-line"></i></a>
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-delete-bin-7-line"></i>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom user-list">
-                                                        <td class="user-checkbox text-center">
-                                                            <input class="form-check-input" type="checkbox" value="">
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold text-success"><a class="text-dark" href="#">#1539078</a></td>
-                                                        <td>
-                                                            <div class="d-flex align-items-center">
-                                                                <span class="avatar avatar-sm avatar-radius me-2">
-                                                                    <img src="build/assets/images/shop/2.png" class="avatar-radius" alt="product">
-                                                                </span>
-                                                                Two type of watch sets
-                                                            </div>
-                                                        </td>
-                                                        <td class="fw-semibold fs-15">
-                                                            3.0 <span class="text-muted fw-normal fs-12">(50 Mem)</span> <i class="fa fa-star text-warning fs-12"></i>
-                                                        </td>
-                                                        <td class="fs-14">
-                                                            <a class="text-dark" href="javascript:void(0);">Meisha Kerr</a>
-                                                        </td>
-                                                        <td class="text-center">2</td>
-                                                        <td><span class="badge badge-sm bg-danger-transparent text-danger fw-normal fs-11">Cancelled</span>
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold">$6745.99</td>
-                                                        <td>
-                                                            <span class="me-2">25 Mar 2022</span>
-                                                        </td>
-                                                        <td>
-                                                            <div class="hstack gap-2 fs-1">
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-edit-line"></i></a>
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-delete-bin-7-line"></i>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom user-list">
-                                                        <td class="user-checkbox text-center">
-                                                            <input class="form-check-input" type="checkbox" value="">
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1539832</a></td>
-                                                        <td>
-                                                            <div class="d-flex align-items-center">
-                                                                <span class="avatar avatar-sm avatar-radius me-2">
-                                                                    <img src="build/assets/images/shop/4.png" class="avatar-radius" alt="product">
-                                                                </span>
-                                                                Mony layer headphones
-
-                                                            </div>
-                                                        </td>
-                                                        <td class="fw-semibold fs-15">
-                                                            4.5 <span class="text-muted fw-normal fs-12">(65 Mem)</span> <i class="fa fa-star text-warning fs-12"></i>
-                                                        </td>
-                                                        <td class="fs-14">
-                                                            <a class="text-dark" href="javascript:void(0);">Jessica</a>
-                                                        </td>
-                                                        <td class="text-center">1</td>
-                                                        <td><span class="badge badge-sm bg-info-transparent text-info fw-normal fs-11">Under
-                                                                Process</span>
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold">$1176.89</td>
-                                                        <td>
-                                                            <span class="me-2">27 Feb 2022</span>
-                                                        </td>
-                                                        <td>
-                                                            <div class="hstack gap-2 fs-1">
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-edit-line"></i></a>
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-delete-bin-7-line"></i>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                    <tr class="border-bottom user-list">
-                                                        <td class="user-checkbox text-center">
-                                                            <input class="form-check-input" type="checkbox" value="">
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1538267</a></td>
-                                                        <td>
-                                                            <div class="d-flex align-items-center">
-                                                                <span class="avatar avatar-sm avatar-radius me-2">
-                                                                    <img src="build/assets/images/shop/3.png" class="avatar-radius" alt="product">
-                                                                </span>
-                                                                Sportive coloured shoes
-                                                            </div>
-                                                        </td>
-                                                        <td class="fw-semibold fs-15">
-                                                            2.5 <span class="text-muted fw-normal fs-12">(15 Mem)</span> <i class="fa fa-star text-warning fs-12"></i>
-                                                        </td>
-                                                        <td class="fs-14">
-                                                            <a class="text-dark" href="javascript:void(0);">Jason Stathman</a>
-                                                        </td>
-                                                        <td class="text-center">1</td>
-                                                        <td><span class="badge badge-sm bg-warning-transparent text-warning fw-normal fs-11">Pending</span>
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold">$1867.29</td>
-                                                        <td>
-                                                            <span class="me-2">2 Apr 2022</span>
-                                                        </td>
-                                                        <td>
-                                                            <div class="hstack gap-2 fs-1">
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-edit-line"></i></a>
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-delete-bin-7-line"></i>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    <tr class="border-bottom user-list">
-                                                        <td class="user-checkbox text-center">
-                                                            <input class="form-check-input" type="checkbox" value="">
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold"><a class="text-dark" href="#">#1537890</a></td>
-                                                        <td>
-                                                            <div class="d-flex align-items-center">
-                                                                <span class="avatar avatar-sm avatar-radius me-2">
-                                                                    <img src="build/assets/images/shop/7.png" class="avatar-radius" alt="product">
-                                                                </span>
-                                                                Vayon black shades
-                                                            </div>
-                                                        </td>
-                                                        <td class="fw-semibold fs-15">
-                                                            3.5 <span class="text-muted fw-normal fs-12">(36 Mem)</span> <i class="fa fa-star text-warning fs-12"></i>
-                                                        </td>
-                                                        <td class="fs-14">
-                                                            <a class="text-dark" href="javascript:void(0);">Khabib Hussain</a>
-                                                        </td>
-                                                        <td class="text-center">1</td>
-                                                        <td><span class="badge badge-sm bg-success-transparent text-success fw-normal fs-11">Shipped</span>
-                                                        </td>
-                                                        <td class="fs-14 fw-semibold">$2439.99</td>
-                                                        <td>
-                                                            <span class="me-2">8 Apr 2022</span>
-                                                        </td>
-                                                        <td>
-                                                            <div class="hstack gap-2 fs-1">
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-info-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-edit-line"></i></a>
-                                                                <a aria-label="anchor" href="javascript:void(0);" class="btn btn-icon btn-sm btn-danger-light btn-wave waves-effect waves-light">
-                                                                    <i class="ri-delete-bin-7-line"></i>
-                                                                </a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
-                    </div>
-                    <!-- End::Row-1 -->
-
-                </div>
-                <!-- CONTAINER END -->
-
+                 
+                   @yield('content')
+                   <!-- dashboard -->
+                   
+                   
+                <!-- enddashboard -->
 
             </div>
             <!-- END APP-CONTENT -->
@@ -2852,6 +1881,7 @@
         <!-- End Country-selector modal -->
 
         <!-- Footer opened -->
+
         <footer class="footer">
             <div class="container">
                 <div class="row align-items-center flex-row-reverse">
@@ -2914,6 +1944,7 @@
     <link rel="modulepreload" href="build/assets/app-6df099bd.js" />
     <link rel="modulepreload" href="build/assets/defaultmenu-7feba3a7.js" />
     <script type="module" src="build/assets/app-6df099bd.js"></script>
+    @include('toaster')
     <!-- END SCRIPTS -->
 
 </body>

@@ -514,11 +514,13 @@
 
             <!-- CONTAINER OPEN -->
             <div class="">
+
                 <div class="text-center">
                     <a href="index.html"><img src="build/assets/images/brand/desktop-dark.png" class="header-brand-img" alt=""></a>
                 </div>
             </div>
             <div class="container-lg">
+
                 <div class="row justify-content-center mt-4 mx-0">
                     <div class="col-xl-4 col-lg-6">
                         <div class="card shadow-none">
@@ -569,31 +571,11 @@
                                             <div class="d-grid mb-3">
                                                 <button type="submit" class="btn btn-primary"> Login</button>
                                             </div>
-                                            <!-- <div class="text-center">
-                                                <p class="mb-0 tx-14">Don't have an account yet?
-                                                    <a href="register.html" class="tx-primary ms-1 text-decoration-underline">Sign Up</a>
-                                                </p>
-                                            </div> -->
+
                                         </div>
                                     </div>
                                 </form>
-                                <!-- <p class="text-center mt-3 mb-2">Signin with</p> -->
-                                <!-- <div class="d-flex justify-content-center">
-                                        <div class="btn-list">
-                                            <button class="btn btn-icon bg-primary-transparent rounded-pill border-0" type="button">
-                                                <span class="btn-inner--icon"><i class="fa fa-facebook"></i></span>
-                                            </button>
-                                            <button class="btn btn-icon bg-primary-transparent rounded-pill border-0" type="button">
-                                                    <span class="btn-inner--icon"><i class="fa fa-google"></i></span>
-                                                </button>
-                                            <button class="btn btn-icon bg-primary-transparent rounded-pill border-0" type="button">
-                                                    <span class="btn-inner--icon"><i class="fa fa-twitter"></i></span>
-                                                </button>
-                                            <button class="btn btn-icon bg-primary-transparent rounded-pill border-0" type="button">
-                                                    <span class="btn-inner--icon"><i class="fa fa-linkedin"></i></span>
-                                            </button>
-                                        </div>
-                                    </div> -->
+
                             </div>
                         </div>
                     </div>
@@ -615,6 +597,12 @@
     <link rel="modulepreload" href="build/assets/defaultmenu-7feba3a7.js" />
     <script type="module" src="build/assets/custom-switcher-aff38aa1.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
+
+
+    @include('toaster')
+
+
 
 </body>
 <style>

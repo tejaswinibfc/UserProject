@@ -1,8 +1,9 @@
 <?php
 
+use App\Http\Controllers\admin\LoginController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\UserController;
-use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\admin\DashboardController;
+use App\Http\Controllers\admin\ProfileController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,12 +16,26 @@ use App\Http\Controllers\ProfileController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+// login //
+Route::get('/',[LoginController::class,'index']);
+Route::post('/login',[LoginController::class,'login'])->name('login');
+
+Route::group(['middleware' => ['admin']], function() {
+    // logout 
+    Route::get('/logout',[LoginController::class,'logout'])->name('logout');
+
+    Route::get('/profile',[ProfileController::class,'index'])->name('profile');
+    Route::post('/updateProfile',[ProfileController::class,'updateProfile'])->name('updateProfile');
+
+    Route::get('/dashboard',[DashboardController::class,'index'])->name('dashboard');
+    
 });
 
-Route::middleware(['web'])->group(function () {
-    Route::get('/dashboard',[UserController::class,'index'])->name('dashboard');
-});
-Route::get('/login',[ProfileController::class,'index'])->name('login');
-Route::post('/login',[ProfileController::class,'login'])->name('login');
+
+
+
+
