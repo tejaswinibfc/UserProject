@@ -21,21 +21,17 @@ use App\Http\Controllers\admin\ProfileController;
 // });
 
 // login //
-Route::get('/',[LoginController::class,'index']);
-Route::post('/login',[LoginController::class,'login'])->name('login');
+Route::get('/', [LoginController::class, 'index']);
+Route::post('/login', [LoginController::class, 'login'])->name('login');
 
-Route::group(['middleware' => ['admin']], function() {
+Route::group(['middleware' => ['admin']], function () {
     // logout 
-    Route::get('/logout',[LoginController::class,'logout'])->name('logout');
+    Route::get('/logout', [LoginController::class, 'logout'])->name('logout');
 
-    Route::get('/profile',[ProfileController::class,'index'])->name('profile');
-    Route::post('/updateProfile',[ProfileController::class,'updateProfile'])->name('updateProfile');
+    Route::get('/profile', [ProfileController::class, 'index'])->name('profile');
+    Route::post('/updateProfile', [ProfileController::class, 'updateProfile'])->name('updateProfile');
+    Route::post('/updateImage', [ProfileController::class, 'updateImage'])->name('updateImage');
+    Route::post('/updatePassword', [ProfileController::class, 'updatePassword'])->name('updatePassword');
 
-    Route::get('/dashboard',[DashboardController::class,'index'])->name('dashboard');
-    
+    Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 });
-
-
-
-
-

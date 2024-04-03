@@ -22,7 +22,9 @@ class UserSeeder extends Seeder
             'email' => "admin@gmail.com",
             'password' => Hash::make('123'),
             'mobile'=> "7899874554",
-            'address'=> "Lucknow"
+            'address'=> "Lucknow",
+            'image'=> "profileimage/user.jpg",
+           
         ]);
     }
 }

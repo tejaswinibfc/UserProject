@@ -1112,7 +1112,7 @@
                                         <!-- Start::header-link|dropdown-toggle -->
                                         <a href="javascript:void(0);" class="header-link dropdown-toggle d-flex align-items-center" id="mainHeaderProfile" data-bs-toggle="dropdown" aria-expanded="false">
                                             <span class="me-2">
-                                                <img src="build/assets/images/users/21.jpg" alt="img" width="30" height="30" class="rounded-circle">
+                                                <img src="{{url('profileimage/'.Auth::user()->image)}}" alt="img" width="30" height="30" class="rounded-circle">
                                             </span>
                                             <div class="d-xl-block d-none lh-1">
                                                 <h6 class="fs-13 font-weight-semibold mb-0">{{Auth::user()->name}}</h6>
@@ -1904,14 +1904,16 @@
         <span class="arrow"><i class="fa fa-angle-up fs-20"></i></span>
     </div>
     <!-- Scroll To Top -->
-
+    
     <div id="responsive-overlay"></div>
-
+   
     <!-- Popper JS -->
     <script src="build/assets/libs/%40popperjs/core/umd/popper.min.js"></script>
 
     <!-- Bootstrap JS -->
     <script src="build/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
 
     <!-- Node Waves JS-->
     <script src="build/assets/libs/node-waves/waves.min.js"></script>
@@ -1944,9 +1946,11 @@
     <link rel="modulepreload" href="build/assets/app-6df099bd.js" />
     <link rel="modulepreload" href="build/assets/defaultmenu-7feba3a7.js" />
     <script type="module" src="build/assets/app-6df099bd.js"></script>
+    
+  
     @include('toaster')
     <!-- END SCRIPTS -->
-
+ @yield('externaljs')
 </body>
 
 
